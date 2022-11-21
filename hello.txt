@@ -1,7 +1,7 @@
-Hello,GIT!2222222222
+Hello,GIT!22222
 Hello,GIT!
 Hello,GIT!
-Hello,GIT!4444444444
+Hello,GIT!44444
 Hello,GIT!
 Hello,GIT!
 Hello,GIT!
