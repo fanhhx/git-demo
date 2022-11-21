@@ -13,4 +13,4 @@ Hello,GIT!
 Hello,GIT!
 Hello,GIT!
 Hello,GIT!
-Hello,GIT!
+Hello,GIT! hot-fix test
