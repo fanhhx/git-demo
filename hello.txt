@@ -12,5 +12,5 @@ Hello,GIT!
 Hello,GIT!
 Hello,GIT!
 Hello,GIT!
-Hello,GIT!
+Hello,GIT! master test
 Hello,GIT!
